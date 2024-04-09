@@ -1,4 +1,4 @@
 # odin-recipes
 build basic recipe website
 
-I have learn't quite a bit from this project, specifically on how to use the github and git command-line. I was struggling at first because I didn't understand how/where to write my git commit messege. Throughout the project I only staged the changes without comitting them. I realised this too late when I was done with the project.
+I made a mistake for the commits. I only staged my changes and then commit'd it all at the end... so I went back and made some changes. It still looks random but it's just for the sake of having more commits/practicing. I will definitely ensure that I frequently commit for future projects.
